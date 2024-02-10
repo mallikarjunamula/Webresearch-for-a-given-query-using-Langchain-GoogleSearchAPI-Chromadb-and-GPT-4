@@ -1,4 +1,4 @@
-# Webresearch-for-a-given-query-using-Langchain-GoogleSearchAPI-Chromadb-and-PGT-4
+# Webresearch-for-a-given-query-using-Langchain-GoogleSearchAPI-Chromadb-and-GPT-4
 
 The Web Information Analysis project revolutionizes the process of gathering, analyzing, and delivering relevant information from the web by seamlessly integrating Langchain, Google Search API, Chromadb, and GPT-4. This innovative platform empowers users to obtain comprehensive insights and analysis on a wide range of topics, enabling informed decision-making and knowledge discovery.
 
